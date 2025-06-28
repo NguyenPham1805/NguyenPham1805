@@ -9,7 +9,7 @@ From Rem lord with love 💙
                      /___/         /___/       /___/
 ```
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&width=435&lines=A+web+developer;A+gamer+challenger;An+artist+coding;An+ODC+coder" alt="Typing SVG" />
 
@@ -17,13 +17,9 @@ From Rem lord with love 💙
 
 <br>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Techs</b>
-
-<br>
 
 - **Languages**:
 
@@ -31,9 +27,6 @@ From Rem lord with love 💙
   ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Csharp-8A2BE2?style=for-the-badge&logo=sharp&logoColor=white)
-
-
-<br>   
 
 - **Frameworks**:
 
@@ -43,20 +36,12 @@ From Rem lord with love 💙
   ![Static Badge](https://img.shields.io/badge/vue.js-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=while)
   ![Static Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=while)
 
-
-<br>   
-
 - **Databases**:
 
   ![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=while)
   ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=while)
   ![Static Badge](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=while)
   ![Static Badge](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=while)
-
-
-<br>   
-
-- **Libraries**:
 
 
 <br>
@@ -67,5 +52,4 @@ From Rem lord with love 💙
 
 </a>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
